@@ -14,15 +14,6 @@ Passionné par le développement d'outils et la modélisation, voici un petit ap
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## 📊 Mes Statistiques GitHub (Dynamique)
-
-Voici un aperçu automatique de mon activité de dev. Ces cartes se mettent à jour en temps réel :
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axelp-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques d'Axel" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelp-dev&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" height="195px" />
-</p>
-
 ## 🚀 Projets
 
 * 🎯 **[Nuclear-Reactor-Simulator](https://github.com/axelp-dev/Nuclear-Reactor-Stochastic-Simulator)** : Simulation d'un réacteur nucléaire par des chaînes de Markov et rendu de l'activité en CLI. 
