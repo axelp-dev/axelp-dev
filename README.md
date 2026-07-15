@@ -23,12 +23,6 @@ Voici un aperçu automatique de mon activité de dev. Ces cartes se mettent à j
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelp-dev&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" height="195px" />
 </p>
 
-## ⚡ Activité Récente
-
-<!-- START_SECTION:activity -->
-*Aucune activité récente enregistrée pour le moment. En attente de la première mise à jour automatisée...*
-<!-- END_SECTION:activity -->
-
 ## 🚀 Projets
 
 * 🎯 **[Nuclear-Reactor-Simulator](https://github.com/axelp-dev/Nuclear-Reactor-Stochastic-Simulator)** : Simulation d'un réacteur nucléaire par des chaînes de Markov et rendu de l'activité en CLI. 
