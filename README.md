@@ -16,6 +16,7 @@ Passionné par le développement d'outils et la modélisation, voici un petit ap
 
 ## 🚀 Projets
 
+* 🦠 **[BioChroma](https://github.com/axelp-dev/BioChroma)** : Simulation stochastique d'une population multi-bactérienne dans une boîte de Pétri en C++ -- *En cours de développement*. 
 * 🎯 **[Nuclear-Reactor-Simulator](https://github.com/axelp-dev/Nuclear-Reactor-Stochastic-Simulator)** : Simulation d'un réacteur nucléaire par des chaînes de Markov et rendu de l'activité en CLI.  
 * 📑 **[Fiches-Master](https://github.com/axelp-dev/Fiches-Master)** : Fiches de cours de Master IMA (Mathématiques pour l'IA) sur mes enseignements de mathématiques théoriques, appliquées et mes cours d'informatique. 
 * 📑 **[Fiches-Licence](https://github.com/axelp-dev/Fiches-Licence-Maths)** : Mes fiches de cours de Licence (Double Licence Maths/Info) résumant tout mes cours de mathématiques et d'informatique rédigés en LaTeX.
